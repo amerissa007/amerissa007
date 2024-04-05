@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Amer Issa and I am a undergraduate student studying computer science. I am very intrested in web app development and backend development. Besides programming, I really like fashion, art, and music production 😄
 <!--
 **amerissa007/amerissa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
