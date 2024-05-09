@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Amer Issa and I am a undergraduate student studying computer science. I am very intrested in web app development and backend development. Besides programming, I really like fashion, art, and music production 😄
-<!--
+I am an aspiring software engineer and current Computer Science student based in New York City. I enjoy developing a variety of projects which include web applications, video games, and fullstack development. Besides programming, I love fashion, art, and producing music.<!--
 **amerissa007/amerissa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
